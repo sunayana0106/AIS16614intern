@@ -1,4 +1,4 @@
-* Day one task: 
+# Day one task: 
 day 1 we learned and performed following tasks
 1.Variable selection and declaration rules.
 2.Operators - Arithmetic operator,Assignment operator,comparison operator,logical operators,Identity operators,Membership operators.

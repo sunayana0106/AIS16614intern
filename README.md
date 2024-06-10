@@ -17,3 +17,6 @@ day 1 we learned and performed following tasks
 3. pass statement syntax, uses and examples                                
 4. statistical user define functions syntax, uses and examples. this includes statistical computations like mean, mode, variance, etc by user define functions        
 5. logical user define functions syntax, uses and dexamples. logical operations are used in user define function                         
+
+# Day 4 task    
+1.

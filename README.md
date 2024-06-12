@@ -27,3 +27,7 @@ day 1 we learned and performed following tasks
 3. Dataframe operations or dataframe methods in pandas
 4. Selection in dataframes : row or column selection, delete, update, index, remove index, etc. operations betweeen two rows or columns in dataframe
 5. Missing values : checking for missing values, dropping missing values, fill missing value
+
+# Day 6 task
+1. Matplot library for visulisations : scatter plot, line plot, histogram, pie chart,etc. customization in this plots like colour,size, legends,etc.
+2. Seaborn library: Seaborn is a library that uses Matplotlib underneath to plot graphs.

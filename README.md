@@ -19,4 +19,11 @@ day 1 we learned and performed following tasks
 5. logical user define functions syntax, uses and dexamples. logical operations are used in user define function                         
 
 # Day 4 task    
-1.
+1.Numpy library: basic , random (distributions and visualizations), universal functions 
+
+# Day 5 task
+1. Pandas series creation and operations
+2. Dataframe creation using matrix, dictionary and to read csv and xlsx file
+3. Dataframe operations or dataframe methods in pandas
+4. Selection in dataframes : row or column selection, delete, update, index, remove index, etc. operations betweeen two rows or columns in dataframe
+5. Missing values : checking for missing values, dropping missing values, fill missing value
